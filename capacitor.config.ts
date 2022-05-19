@@ -1,10 +1,10 @@
-import { CapacitorConfig } from '@capacitor/cli';
+import {CapacitorConfig} from '@capacitor/cli';
+
 const config: CapacitorConfig = {
-  appId: "io.ionic.demo.pg.cap.ng",
-  appName: "Photo Gallery Cap Ng",
-  bundledWebRuntime: false,
-  npmClient: "npm",
-  webDir: "www",
+    appId: 'io.ionic.demo.pg.cap.ng',
+    appName: 'Photo Gallery Cap Ng',
+    bundledWebRuntime: false,
+    webDir: 'www',
 };
 
 export default config;
